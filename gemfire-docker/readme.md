@@ -29,5 +29,5 @@ Please make sure to update tests as appropriate.
 ### Acknowledgements
 
 ### Reference
-[Pivotal](http://gemfire82.docs.pivotal.io/docs-gemfire/latest/getting_started/15_minute_quickstart_gfsh)html#topic_FE3F28ED18E145F787431EC87B676A76
+[Pivotal](http://gemfire82.docs.pivotal.io/docs-gemfire/latest/getting_started/15_minute_quickstart_gfsh.html)
 
