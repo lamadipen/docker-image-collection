@@ -38,6 +38,8 @@ docker tage <image-id> gemfire:mulesoft
 To the the docker container 
 ````
 docker run <image-id>
+
+ docker run -it -h myhost -p 10334:10334 -p 7070:7070 -p 1099:1099 -p 8080:8080   6be505f1152
 ````
 
 To run container with interactive terminal 
